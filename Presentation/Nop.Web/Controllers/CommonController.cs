@@ -84,7 +84,7 @@ namespace Nop.Web.Controllers
         private readonly VendorSettings _vendorSettings;
 
         #endregion
-        abstract;
+
         #region Constructors
 
         public CommonController(ICategoryService categoryService,
